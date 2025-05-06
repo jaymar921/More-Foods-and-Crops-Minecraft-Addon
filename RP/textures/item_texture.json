@@ -7,6 +7,9 @@
 		},
 		"mofood_flour": {
 			"textures": "textures/items/flour"
+		},
+		"mofood_onion": {
+			"textures": "textures/items/onion"
 		}
 	}
 }
