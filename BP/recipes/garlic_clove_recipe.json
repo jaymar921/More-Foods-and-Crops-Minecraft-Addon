@@ -1,0 +1,22 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "mofood:garlic_clove_recipe"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "mofood:garlic",
+				"data": 0,
+				"count": 1
+			}
+		],
+		"result": {
+			"item": "mofood:garlic_clove",
+			"count": 4
+		}
+	}
+}

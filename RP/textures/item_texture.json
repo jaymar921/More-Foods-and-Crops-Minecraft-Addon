@@ -16,6 +16,9 @@
 		},
 		"mofood_garlic": {
 			"textures": "textures/items/garlic"
+		},
+		"mofood_garlic_clove": {
+			"textures": "textures/items/garlic clove"
 		}
 	}
 }
