@@ -12,6 +12,10 @@
 				"item": "minecraft:wheat",
 				"data": 0,
 				"count": 1
+			},
+			{
+				"item": "minecraft:bowl",
+				"count": 1
 			}
 		],
 		"result": {
