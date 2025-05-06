@@ -34,6 +34,9 @@
 		},
 		"mofood_cheese_burger": {
 			"textures": "textures/items/burger"
+		},
+		"mofood_ice_cube": {
+			"textures": "textures/items/ice"
 		}
 	}
 }

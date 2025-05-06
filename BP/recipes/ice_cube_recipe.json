@@ -1,0 +1,21 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "mofood:ice_cube_recipe"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:ice",
+				"count": 1
+			}
+		],
+		"result": {
+			"item": "mofood:ice_cube",
+			"count": 5
+		}
+	}
+}
