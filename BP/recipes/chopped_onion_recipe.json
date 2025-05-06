@@ -1,0 +1,23 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "mofood:chopped_onion_recipe"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "mofood:onion",
+				"count": 1,
+				"data": 0
+			}
+		],
+		"result": {
+			"item": "mofood:chopped_onion",
+			"data": 0,
+			"count": 2
+		}
+	}
+}

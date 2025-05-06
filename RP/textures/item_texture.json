@@ -10,6 +10,9 @@
 		},
 		"mofood_onion": {
 			"textures": "textures/items/onion"
+		},
+		"mofood_chopped_onion": {
+			"textures": "textures/items/chopped onion"
 		}
 	}
 }
