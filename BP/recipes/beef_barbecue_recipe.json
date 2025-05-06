@@ -1,0 +1,14 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "mofood:beef_barbecue_recipe"
+		},
+		"tags": [
+			"campfire",
+			"soul_campfire"
+		],
+		"input": "minecraft:beef",
+		"output": "mofood:beef_barbecue"
+	}
+}

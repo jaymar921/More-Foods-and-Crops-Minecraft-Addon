@@ -28,6 +28,9 @@
 		},
 		"mofood_pork_barbeque": {
 			"textures": "textures/items/pork bbq"
+		},
+		"mofood_beef_barbecue": {
+			"textures": "textures/items/beef bbq"
 		}
 	}
 }
