@@ -31,6 +31,9 @@
 		},
 		"mofood_beef_barbecue": {
 			"textures": "textures/items/beef bbq"
+		},
+		"mofood_cheese_burger": {
+			"textures": "textures/items/burger"
 		}
 	}
 }
