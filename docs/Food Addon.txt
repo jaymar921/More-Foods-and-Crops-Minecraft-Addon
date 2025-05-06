@@ -1,7 +1,7 @@
 Food Category [Version 1.0.0]
 
-- Rice [crafted from wheat]
-- Flour [crafted from wheat and water]
+- Rice [crafted from wheat + bowl]
+- Flour [crafted from 2 wheat + bowl]
 - Onion
 - Chopped Onion [crafted from onion]
 - Garlic
