@@ -1,0 +1,14 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "mofood:cheese_recipe"
+		},
+		"tags": [
+			"furnace",
+			"smoker"
+		],
+		"input": "minecraft:milk_bucket",
+		"output": "mofood:cheese"
+	}
+}

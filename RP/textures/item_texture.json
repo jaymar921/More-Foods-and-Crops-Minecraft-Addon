@@ -22,6 +22,9 @@
 		},
 		"mofood_lettuce": {
 			"textures": "textures/items/lettuce"
+		},
+		"mofood_cheese": {
+			"textures": "textures/items/cheese"
 		}
 	}
 }
