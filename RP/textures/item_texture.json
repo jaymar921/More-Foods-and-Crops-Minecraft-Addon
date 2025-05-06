@@ -25,6 +25,9 @@
 		},
 		"mofood_cheese": {
 			"textures": "textures/items/cheese"
+		},
+		"mofood_pork_barbeque": {
+			"textures": "textures/items/pork bbq"
 		}
 	}
 }
