@@ -14,4 +14,4 @@ Spice up your Minecraft world with **more food, more crops, and a whole lot of f
 
 ### Version Support
 
-- Minecraft Bedrock 1.21.60
+- Minecraft Bedrock 1.20.80
