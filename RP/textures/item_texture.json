@@ -13,6 +13,9 @@
 		},
 		"mofood_chopped_onion": {
 			"textures": "textures/items/chopped onion"
+		},
+		"mofood_garlic": {
+			"textures": "textures/items/garlic"
 		}
 	}
 }
