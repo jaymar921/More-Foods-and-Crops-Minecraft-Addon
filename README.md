@@ -9,7 +9,7 @@ Spice up your Minecraft world with **more food, more crops, and a whole lot of f
 </p>
 
 <p align="left">
-    <kbd><img width="64" height="64"  src="https://avatars.githubusercontent.com/u/91781090?s=100&v=4"></kbd>&nbsp;&nbsp;&nbsp;&nbsp;<b>MikaPiaChuMikaPiaChu921</b>&nbsp;&nbsp;(Artist / QA Tester)
+    <kbd><img width="64" height="64"  src="https://avatars.githubusercontent.com/u/91781090?s=100&v=4"></kbd>&nbsp;&nbsp;&nbsp;&nbsp;<b>MikaPiaChu921</b>&nbsp;&nbsp;(Artist / QA Tester)
 </p>
 
 ### Version Support
