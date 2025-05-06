@@ -4,6 +4,9 @@
 	"texture_data": {
 		"mofood_rice": {
 			"textures": "textures/items/Rice"
+		},
+		"mofood_flour": {
+			"textures": "textures/items/flour"
 		}
 	}
 }
