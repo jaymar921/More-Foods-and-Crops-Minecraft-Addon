@@ -1,0 +1,67 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"JayMar921"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.45"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			21,
+			60
+		],
+		"uuid": "caf39c53-40fd-464f-b4ef-2dd048b3bfd3",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "aff7517f-b567-43c1-a3c4-7b3ea2844c30",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"type": "script",
+			"language": "javascript",
+			"uuid": "6e84c985-7032-4e0a-bb3f-f689a8631d12",
+			"entry": "scripts/main.js",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "524f4e92-2825-4d08-94ec-181a67e0a003",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"module_name": "@minecraft/server",
+			"version": "1.17.0"
+		}
+	]
+}
